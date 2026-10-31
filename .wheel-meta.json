@@ -1,0 +1,22 @@
+{
+  "wheel_id": 589,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-158",
+  "project": "retaining-wall-builders-gold-coast-how-to-choose-de8bf92f72c87c",
+  "parent_t1_ref": "goldcoastretainingwall-013",
+  "node_role": "buffer",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast how to choose",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-gold-coast-how-to-choose-de8bf92f72c87c/",
+  "tier": "T2",
+  "writeback_nonce": "26d09e8a269c555c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-gold-coast/",
+      "anchor": "this retaining wall builders gold coast guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
